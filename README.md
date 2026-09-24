@@ -51,6 +51,12 @@ Lighthouse, lab test of the live site, September 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Cleaning, overview of all services">
+<sub>Cleaning, overview of all services</sub>
+
+<img src="media/inner-2.webp" alt="Cobblestone and natural stone">
+<sub>Cobblestone and natural stone</sub>
+
 ---
 
 <sub>Built by [D. Svilenković](https://svilenkovic.com).</sub>

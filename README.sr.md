@@ -51,6 +51,12 @@ Lighthouse, laboratorijsko merenje živog sajta, septembar 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Čišćenje, pregled svih usluga">
+<sub>Čišćenje, pregled svih usluga</sub>
+
+<img src="media/inner-2.webp" alt="Kaldrma i prirodni kamen">
+<sub>Kaldrma i prirodni kamen</sub>
+
 ---
 
 <sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>
