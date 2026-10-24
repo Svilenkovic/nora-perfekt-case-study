@@ -4,7 +4,7 @@
 
 A 21-page site for a firm that cleans homes and offices and lays cobblestone and pavers across Serbia, with both services on equal footing.
 
-**[noraperfekt.rs](https://noraperfekt.rs/)** · [Srpski](README.sr.md)
+**[noraperfekt.rs](https://noraperfekt.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/nora-perfekt) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ I did not want either service to look like an add-on to the other, so I gave eac
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 98 | 100 | 100 | 92 |
-| Desktop | 100 | 100 | 100 | 92 |
+| Mobile | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Lighthouse, lab test of the live site, September 2026.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. Structured data: `HomeAndConstructionBusiness`.
 
 ## Screenshots
 

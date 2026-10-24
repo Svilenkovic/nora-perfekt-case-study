@@ -4,7 +4,7 @@
 
 Sajt od 21 strane za firmu koja čisti stanove i poslovne prostore i postavlja kaldrmu i behaton širom Srbije, a obe usluge imaju istu težinu.
 
-**[noraperfekt.rs](https://noraperfekt.rs/)** · [English](README.md)
+**[noraperfekt.rs](https://noraperfekt.rs/)** · [Studija slučaja](https://svilenkovic.rs/radovi/nora-perfekt) · [English](README.md)
 
 > [!NOTE]
 > Klijentski projekat. Izvorni kod pripada klijentu i čuva se u privatnom repozitorijumu. Ova stranica opisuje šta sam uradio i kako.
@@ -37,10 +37,10 @@ Nijedna usluga nije smela da izgleda kao dodatak onoj drugoj, pa sam svakoj dao 
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 98 | 100 | 100 | 92 |
-| Desktop | 100 | 100 | 100 | 92 |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Lighthouse, laboratorijsko merenje živog sajta, septembar 2026.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `HomeAndConstructionBusiness`.
 
 ## Snimci ekrana
 
